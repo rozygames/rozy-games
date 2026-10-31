@@ -497,4 +497,19 @@
 <script src="js/main.js"></script><script>
 const search=document.getElementById('gameSearch'), cards=[...document.querySelectorAll('.game-card')], count=document.getElementById('resultCount');
 search.addEventListener('input',()=>{const q=search.value.toLowerCase().trim();let n=0;cards.forEach(card=>{const show=card.dataset.title.includes(q);card.hidden=!show;if(show)n++});count.textContent=`Menampilkan ${n} dari ${cards.length} game`});
+</script>
+<script>
+document.querySelectorAll('.game-card').forEach(card => {
+  const button = card.querySelector('.game-wa');
+  const title = card.querySelector('.game-title')?.textContent.trim();
+  if (!button || !title) return;
+  const message = `Halo Uda Rozy Games 👋
+
+Saya mau tanya nih, berapa harga untuk pengisian game PS4 HEN Subtitle Indonesia?
+
+🎮 Nama Game: ${title}
+
+Mohon informasinya ya, Uda. Terima kasih 🙏`;
+  button.href = 'https://wa.me/6281270635111?text=' + encodeURIComponent(message);
+});
 </script></body></html>
