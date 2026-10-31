@@ -10,6 +10,14 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
+  <style>
+    .location-section{max-width:1104px;margin:0 auto 75px;padding:0 28px}
+    .location-card{display:grid;grid-template-columns:.8fr 1.2fr;gap:24px;align-items:stretch;border:1px solid var(--line);border-radius:18px;padding:22px;background:#fff;box-shadow:var(--shadow)}
+    .location-info{padding:12px 8px}.location-info h2{font-size:28px;margin:9px 0 12px}.location-info p{color:var(--muted);font-size:13px;line-height:1.8}
+    .location-map{width:100%;min-height:290px;border:0;border-radius:13px;background:var(--soft)}
+    .location-actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:20px}
+    @media(max-width:760px){.location-section{padding:0 18px;margin-bottom:50px}.location-card{grid-template-columns:1fr;padding:17px;gap:15px}.location-map{min-height:250px}.location-info{padding:5px}}
+  </style>
 </head>
 <body>
 <header class="site-header">
@@ -41,7 +49,7 @@
     <div class="float-chip chip-top">GAME CATALOG</div><div class="float-chip chip-bottom">ROZY GAMES</div>
   </div>
 </section>
-<section class="section">
+<section class="section" id="katalog">
   <div class="section-heading"><div><span class="eyebrow">JELAJAHI</span><h2>Katalog PlayStation</h2></div><p>Pilih konsol untuk melihat daftar game yang tersedia.</p></div>
   <div class="category-grid">
     <a class="category-card" href="ps3.html"><span class="category-icon">03</span><span class="category-name">Katalog PS3</span><span class="category-desc">Koleksi game PlayStation 3</span><span class="card-arrow">↗</span></a>
@@ -53,6 +61,21 @@
 <section class="service-strip">
   <div><span class="eyebrow">ROZY GAMES</span><h2>Butuh isi game atau servis konsol?</h2><p>Gratis antar-jemput Kota Solok, luar Kota Solok bantu bensin sesuai jarak.</p></div>
   <a class="btn btn-white" href="https://wa.me/6281270635111" target="_blank" rel="noopener">Chat WhatsApp ↗</a>
+</section>
+<section class="location-section" id="lokasi">
+  <div class="section-heading"><div><span class="eyebrow">KUNJUNGI TOKO KAMI</span><h2>Lokasi Rozy Games</h2></div><p>Mudah menemukan toko dan melihat petunjuk arah melalui Google Maps.</p></div>
+  <div class="location-card">
+    <div class="location-info">
+      <span class="eyebrow">KOTA SOLOK · SUMATERA BARAT</span>
+      <h2>Rozy Games</h2>
+      <p>Jln. Angku Bubuk, Kel. Simpang Rumbio, Kota Solok, Sumatera Barat.</p>
+      <div class="location-actions">
+        <a class="btn btn-red" href="https://www.google.com/maps/dir/?api=1&destination=-0.8067235%2C100.6772434" target="_blank" rel="noopener">Petunjuk arah ↗</a>
+        <a class="btn btn-light" href="https://wa.me/6281270635111" target="_blank" rel="noopener">WhatsApp ↗</a>
+      </div>
+    </div>
+    <iframe class="location-map" title="Peta lokasi Rozy Games di Simpang Rumbio, Kota Solok" src="https://www.google.com/maps?q=-0.8067235,100.6772434&z=16&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe>
+  </div>
 </section>
 </main>
 <footer class="site-footer">
