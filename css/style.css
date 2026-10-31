@@ -16,3 +16,19 @@
 @media(max-width:980px){.main-nav{gap:9px}.nav-link{font-size:10px}.header-inner{padding:0 20px}.header-socials{gap:5px}.header-socials a{width:27px;height:27px}.hero{padding-top:60px}.category-grid{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:760px){.site-header{height:70px}.header-inner{padding:0 18px;gap:10px}.header-socials{margin-left:auto;gap:6px}.header-socials a{width:30px;height:30px}.header-socials svg{width:15px;height:15px}.menu-toggle{display:block}.main-nav{display:none;position:absolute;top:69px;left:0;right:0;background:#fff;border-bottom:1px solid var(--line);padding:13px 20px 20px;box-shadow:0 14px 22px #0000000a;align-items:stretch;flex-direction:column;gap:0}.main-nav.open{display:flex}.nav-link{padding:11px 4px;border-bottom:1px solid #f3f3f4;font-size:13px}.nav-contact{text-align:center;margin-top:12px}.hero{grid-template-columns:1fr;padding:55px 22px 45px;gap:10px}.hero-copy p{font-size:14px}.hero-art{height:285px;margin-top:4px}.showcase-card{width:min(100%,310px);min-height:220px;padding:21px 18px}.showcase-logo{width:100px;height:100px}.showcase-orbit-one{width:290px;height:195px}.showcase-orbit-two{width:235px;height:275px}.chip-top{right:2%}.chip-bottom{left:2%}.section{padding:42px 20px 55px}.section-heading{display:block}.section-heading p{margin-top:12px}.section-heading h2,.service-strip h2{font-size:27px}.category-grid{gap:11px}.category-card{min-height:165px;padding:17px}.category-icon{margin-bottom:15px}.category-name{font-size:13px}.category-desc{font-size:10px}.service-strip{margin:0 18px 50px;padding:27px 23px;display:block}.service-strip .btn{margin-top:20px}.page-intro{padding:48px 22px 38px}.catalog-tools{align-items:flex-start;flex-direction:column}.search-box{width:100%}.result-count{padding-left:3px}.site-footer{padding:32px 22px 18px}.footer-bottom{flex-direction:column;gap:5px}}
 @media(max-width:380px){.category-grid{grid-template-columns:1fr}.category-card{min-height:145px}.hero-actions .btn{width:100%}}
+
+/* Kartu katalog game */
+.game-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(205px,1fr));gap:20px;align-items:start}
+.game-card{min-width:0;overflow:hidden;border:1px solid var(--line);border-radius:16px;background:#fff;box-shadow:0 8px 25px rgba(25,25,35,.045);transition:transform .2s,box-shadow .2s}
+.game-card:hover{transform:translateY(-4px);box-shadow:var(--shadow)}
+.game-card[hidden]{display:none!important}
+.game-cover-wrap{position:relative;aspect-ratio:4/5;background:#f1f1f2;overflow:hidden}
+.game-cover{width:100%;height:100%;object-fit:cover;display:block}
+.subtitle-badge{position:absolute;left:9px;right:9px;bottom:9px;padding:7px 8px;border-radius:7px;background:rgba(190,25,34,.94);color:#fff;text-align:center;font-size:9px;font-weight:800;letter-spacing:.45px}
+.game-info{padding:15px}.game-platform{font-size:9px;font-weight:800;letter-spacing:1px;color:var(--red)}
+.game-title{font:800 17px/1.3 Manrope,sans-serif;letter-spacing:-.4px;margin:7px 0 13px}
+.game-meta{display:flex;align-items:center;justify-content:space-between;padding:9px 0;border-top:1px solid var(--line);font-size:12px;color:var(--muted)}
+.game-meta strong{color:var(--ink);font-size:13px}
+.game-wa{display:flex;align-items:center;justify-content:center;margin-top:10px;padding:10px 11px;border-radius:9px;background:#fbedee;color:var(--red);font-size:11px;font-weight:800;text-align:center}
+.game-wa:hover{background:var(--red);color:#fff}
+@media(max-width:480px){.game-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.game-info{padding:11px}.game-title{font-size:14px}.subtitle-badge{font-size:8px;left:6px;right:6px;padding:6px 4px}.game-wa{font-size:10px}}
