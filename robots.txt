@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rozy-games-solok.netlify.app/sitemap.xml
