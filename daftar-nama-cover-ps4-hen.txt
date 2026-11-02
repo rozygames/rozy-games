@@ -1,12 +1,11 @@
 DAFTAR NAMA FILE COVER — KATALOG UTAMA PS4 HEN
-Diambil dari daftar game katalog utama PS4 HEN.
+Jumlah game katalog utama: 1674
+Data Subtitle Indonesia disinkronkan dari 118 kartu katalog khusus.
 Format gambar: JPG
 
-Aturan folder:
-- Game Subtitle Indonesia (subtitle: true) -> covers/
-- Game lainnya -> covers-ps4/
-
-Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
+Folder:
+- Subtitle Indonesia: covers/
+- Game lainnya: covers-ps4/
 
 0001. hack G.U. Last Recode
      covers-ps4/hack-g-u-last-recode.jpg
@@ -27,9 +26,9 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0009. A Jugglers Tale
      covers-ps4/a-jugglers-tale.jpg
 0010. A Plague Tale Innocence
-     covers/a-plague-tale-innocence.jpg
+     SUBTITLE INDONESIA | covers/a-plague-tale-innocence.jpg
 0011. A Way Out
-     covers/a-way-out.jpg
+     SUBTITLE INDONESIA | covers/a-way-out.jpg
 0012. A Knights Quest
      covers-ps4/a-knights-quest.jpg
 0013. Absolver
@@ -55,7 +54,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0023. AEW Fight Forever Bring The Boom Edition
      covers-ps4/aew-fight-forever-bring-the-boom-edition.jpg
 0024. Afterimage
-     covers/afterimage.jpg
+     SUBTITLE INDONESIA | covers/afterimage.jpg
 0025. Age of Wonders Planetfall
      covers-ps4/age-of-wonders-planetfall.jpg
 0026. Agents of Mayhem
@@ -161,25 +160,25 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0076. Assassins Creed Freedom Cry
      covers-ps4/assassins-creed-freedom-cry.jpg
 0077. Assassins Creed III Remastered
-     covers-ps4/assassins-creed-iii-remastered.jpg
+     SUBTITLE INDONESIA | covers/assassin-s-creed-iii-remastered.jpg
 0078. Assassins Creed IV Black Flag Gold Edition
-     covers/assassins-creed-iv-black-flag-gold-edition.jpg
+     SUBTITLE INDONESIA | covers/assassin-s-creed-iv-black-flag-gold-edition.jpg
 0079. Assassins Creed Mirage
-     covers/assassins-creed-mirage.jpg
+     SUBTITLE INDONESIA | covers/assassin-s-creed-mirage.jpg
 0080. Assassins Creed Odyssey
-     covers/assassins-creed-odyssey.jpg
+     SUBTITLE INDONESIA | covers/assassin-s-creed-odyssey-ultimate-edition.jpg
 0081. Assassins Creed Origins Deluxe Edition
-     covers/assassins-creed-origins-deluxe-edition.jpg
+     SUBTITLE INDONESIA | covers/assassin-s-creed-origins.jpg
 0082. Assassins Creed Rogue Remastered
      covers-ps4/assassins-creed-rogue-remastered.jpg
 0083. Assassins Creed Syndicate
-     covers/assassins-creed-syndicate.jpg
+     SUBTITLE INDONESIA | covers/assassin-s-creed-syndicate.jpg
 0084. Assassins Creed the Ezio Collection
-     covers/assassins-creed-the-ezio-collection.jpg
+     SUBTITLE INDONESIA | covers/assassin-s-creed-the-ezio-collection.jpg
 0085. Assassins Creed Unity
-     covers/assassins-creed-unity.jpg
+     SUBTITLE INDONESIA | covers/assassin-s-creed-unity.jpg
 0086. Assassins Creed Valhalla Ultimate Edition
-     covers/assassins-creed-valhalla-ultimate-edition.jpg
+     SUBTITLE INDONESIA | covers/assassin-s-creed-valhalla-ultimate-edition.jpg
 0087. Assault Android Cactus
      covers-ps4/assault-android-cactus.jpg
 0088. Assetto Corsa Competizione
@@ -269,7 +268,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0130. Battlefield Hardline
      covers-ps4/battlefield-hardline.jpg
 0131. Bayonetta
-     covers/bayonetta.jpg
+     SUBTITLE INDONESIA | covers/bayonetta.jpg
 0132. Beach Buggy Racing
      covers-ps4/beach-buggy-racing.jpg
 0133. Beach Buggy Racing 2 Island Adventure
@@ -329,7 +328,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0160. BLEACH Rebirth of Souls Ultimate Edition
      covers-ps4/bleach-rebirth-of-souls-ultimate-edition.jpg
 0161. Bloodborne Game of the Year Edition
-     covers/bloodborne-game-of-the-year-edition.jpg
+     SUBTITLE INDONESIA | covers/bloodborne-game-of-the-year-edition.jpg
 0162. Blood Bowl 3
      covers-ps4/blood-bowl-3.jpg
 0163. Bloodstained Ritual of the Night
@@ -509,7 +508,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0250. Contra Rogue Corps
      covers-ps4/contra-rogue-corps.jpg
 0251. Control Ultimate Edition
-     covers/control-ultimate-edition.jpg
+     SUBTITLE INDONESIA | covers/control-ultimate-edition.jpg
 0252. Construction Simulator 3 Console Edition
      covers-ps4/construction-simulator-3-console-edition.jpg
 0253. Core Keeper
@@ -533,9 +532,9 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0262. Crymachina
      covers-ps4/crymachina.jpg
 0263. Crysis Remastered
-     covers-ps4/crysis-remastered.jpg
+     SUBTITLE INDONESIA | covers/crysis-1-remastered.jpg
 0264. Crysis 2 Remastered
-     covers-ps4/crysis-2-remastered.jpg
+     SUBTITLE INDONESIA | covers/crysis-2-remastered.jpg
 0265. Crysis 3 Remastered
      covers-ps4/crysis-3-remastered.jpg
 0266. Crystar
@@ -545,7 +544,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0268. Curse of The Sea Rats
      covers-ps4/curse-of-the-sea-rats.jpg
 0269. Cyberpunk 2077
-     covers/cyberpunk-2077.jpg
+     SUBTITLE INDONESIA | covers/cyberpunk-2077.jpg
 0270. Cyberdimension Neptunia 4 Goddesses Online
      covers-ps4/cyberdimension-neptunia-4-goddesses-online.jpg
 0271. Dakar 18
@@ -567,7 +566,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0279. Darksiders Genesis
      covers-ps4/darksiders-genesis.jpg
 0280. Darksiders Remastered Edition
-     covers/darksiders-remastered-edition.jpg
+     SUBTITLE INDONESIA | covers/darksiders-remastered-edition.jpg
 0281. Dark Alliance
      covers-ps4/dark-alliance.jpg
 0282. Dark Rose Valkyrie
@@ -577,13 +576,13 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0284. Dark Souls III Game of the Year Edition
      covers-ps4/dark-souls-iii-game-of-the-year-edition.jpg
 0285. Dark Souls Remastered
-     covers-ps4/dark-souls-remastered.jpg
+     SUBTITLE INDONESIA | covers/dark-souls-remastered.jpg
 0286. Daymare 1994 Sandcastle
      covers-ps4/daymare-1994-sandcastle.jpg
 0287. Daymare 1998
      covers-ps4/daymare-1998.jpg
 0288. Days Gone
-     covers/days-gone.jpg
+     SUBTITLE INDONESIA | covers/days-gone.jpg
 0289. Daylight
      covers-ps4/daylight.jpg
 0290. DC League of Super-Pets The Adventures of Krypto and Ace
@@ -595,7 +594,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0293. Dead Island Definitive Edition
      covers-ps4/dead-island-definitive-edition.jpg
 0294. Dead Island 2 Gold Edition
-     covers/dead-island-2-gold-edition.jpg
+     SUBTITLE INDONESIA | covers/dead-island-2-gold-edition.jpg
 0295. Dead Island Riptide Definitive Edition
      covers-ps4/dead-island-riptide-definitive-edition.jpg
 0296. Dead or Alive 5 Last Round
@@ -627,9 +626,9 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0309. Death Squared
      covers-ps4/death-squared.jpg
 0310. Death Stranding
-     covers-ps4/death-stranding.jpg
+     SUBTITLE INDONESIA | covers/death-stranding.jpg
 0311. Deadh's Door
-     covers/deadh-s-door.jpg
+     SUBTITLE INDONESIA | covers/deadh-s-door.jpg
 0312. Deception IV The Nightmare Princess
      covers-ps4/deception-iv-the-nightmare-princess.jpg
 0313. Deep Rock Galactic Ultimate Edition
@@ -643,7 +642,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0317. Deliver Us The Moon
      covers-ps4/deliver-us-the-moon.jpg
 0318. Demon Slayer Kimetsu no Yaiba The Hinokami Chronicles
-     covers-ps4/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles.jpg
+     SUBTITLE INDONESIA | covers/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles.jpg
 0319. Demon Slayer Kimetsu no Yaiba The Hinokami Chronicles 2 Deluxe Edition
      covers-ps4/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-deluxe-edition.jpg
 0320. Demons Crystals
@@ -663,13 +662,13 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0327. Destroy All Humans Remake 2020
      covers-ps4/destroy-all-humans-remake-2020.jpg
 0328. Detroit Become Human
-     covers-ps4/detroit-become-human.jpg
+     SUBTITLE INDONESIA | covers/detroit-become-human.jpg
 0329. Deus Ex Mankind Divided
      covers-ps4/deus-ex-mankind-divided.jpg
 0330. Devil May Cry 4 Special Edition
      covers-ps4/devil-may-cry-4-special-edition.jpg
 0331. Devil May Cry 5 Deluxe Edition
-     covers/devil-may-cry-5-deluxe-edition.jpg
+     SUBTITLE INDONESIA | covers/devil-may-cry-5-deluxe-edition.jpg
 0332. Devil may Cry HD Collection
      covers-ps4/devil-may-cry-hd-collection.jpg
 0333. Diablo II Resurrected
@@ -705,7 +704,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0348. Disgaea 7 Complete Edition
      covers-ps4/disgaea-7-complete-edition.jpg
 0349. Dishonored Death of The Outsider
-     covers-ps4/dishonored-death-of-the-outsider.jpg
+     SUBTITLE INDONESIA | covers/dishonored-death-of-the-outsider.jpg
 0350. Dishonored Definitive Edition
      covers-ps4/dishonored-definitive-edition.jpg
 0351. Dishonored 2
@@ -853,7 +852,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0422. Elden Ring Nightreign
      covers-ps4/elden-ring-nightreign.jpg
 0423. Elden Ring
-     covers/elden-ring.jpg
+     SUBTITLE INDONESIA | covers/elden-ring.jpg
 0424. Electrician Simulator
      covers-ps4/electrician-simulator.jpg
 0425. Elex
@@ -885,7 +884,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0438. Evil Below
      covers-ps4/evil-below.jpg
 0439. Evil West
-     covers/evil-west.jpg
+     SUBTITLE INDONESIA | covers/evil-west.jpg
 0440. Evolve
      covers-ps4/evolve.jpg
 0441. Exist Archive The Other Side of the Sky
@@ -945,9 +944,9 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0468. Fast and Furious Spy Racers Rise of SH1FT3R
      covers-ps4/fast-and-furious-spy-racers-rise-of-sh1ft3r.jpg
 0469. Fatal Frame Maiden of Black Water
-     covers-ps4/fatal-frame-maiden-of-black-water.jpg
+     SUBTITLE INDONESIA | covers/fatal-frame-maiden-of-black-water.jpg
 0470. Fatal Frame Mask of The Lunar Eclipse
-     covers-ps4/fatal-frame-mask-of-the-lunar-eclipse.jpg
+     SUBTITLE INDONESIA | covers/fatal-frame-mask-of-the-lunar-eclipse.jpg
 0471. Fatal Fury City of The Wolves
      covers-ps4/fatal-fury-city-of-the-wolves.jpg
 0472. Fate EXTELLA LINK
@@ -1083,7 +1082,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0537. Ghostrunner
      covers-ps4/ghostrunner.jpg
 0538. Ghost of Tsushima Directors Cut
-     covers/ghost-of-tsushima-directors-cut.jpg
+     SUBTITLE INDONESIA | covers/ghost-of-tsushima-directors-cut.jpg
 0539. GI JOE Operation Blackout
      covers-ps4/gi-joe-operation-blackout.jpg
 0540. Giana Sisters Twisted Dreams Directors Cut
@@ -1103,11 +1102,11 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0547. God Eater 2 Rage Burst
      covers-ps4/god-eater-2-rage-burst.jpg
 0548. God of War 2018
-     covers/god-of-war-2018.jpg
+     SUBTITLE INDONESIA | covers/god-of-war-2018.jpg
 0549. God of War III Remastered
-     covers/god-of-war-iii-remastered.jpg
+     SUBTITLE INDONESIA | covers/god-of-war-3-remastered.jpg
 0550. God of War Ragnarok Valhalla
-     covers/god-of-war-ragnarok-valhalla.jpg
+     SUBTITLE INDONESIA | covers/god-of-war-ragnarok-valhalla.jpg
 0551. God Eater 3
      covers-ps4/god-eater-3.jpg
 0552. God Eater Resurrection
@@ -1125,13 +1124,13 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0558. Grand Kingdom
      covers-ps4/grand-kingdom.jpg
 0559. Grand Theft Auto San Andreas The Definitive Edition
-     covers/grand-theft-auto-san-andreas-the-definitive-edition.jpg
+     SUBTITLE INDONESIA | covers/grand-theft-auto-san-andreas-the-definitive-edition.jpg
 0560. Grand Theft Auto III The Definitive Edition
-     covers/grand-theft-auto-iii-the-definitive-edition.jpg
+     SUBTITLE INDONESIA | covers/grand-theft-auto-iii-the-definitive-edition.jpg
 0561. Grand Theft Auto Vice City The Definitive Edition
-     covers/grand-theft-auto-vice-city-the-definitive-edition.jpg
+     SUBTITLE INDONESIA | covers/grand-theft-auto-vice-city-the-definitive-edition.jpg
 0562. Grand Theft Auto V
-     covers/grand-theft-auto-v.jpg
+     SUBTITLE INDONESIA | covers/grand-theft-auto-v.jpg
 0563. Granblue Fantasy Relink
      covers-ps4/granblue-fantasy-relink.jpg
 0564. Granblue Fantasy Versus Rising Deluxe Edition
@@ -1151,7 +1150,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0571. GreedFall
      covers-ps4/greedfall.jpg
 0572. Green Hell
-     covers/green-hell.jpg
+     SUBTITLE INDONESIA | covers/green-hell.jpg
 0573. GRID Legends
      covers-ps4/grid-legends.jpg
 0574. GRID Ultimate Edition
@@ -1199,7 +1198,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0595. Harvest Moon Mad Dash
      covers-ps4/harvest-moon-mad-dash.jpg
 0596. Harvest Moon A Wonderful Life Special Edition
-     covers/harvest-moon-a-wonderful-life-special-edition.jpg
+     SUBTITLE INDONESIA | covers/harvest-moon-a-wonderful-life-special-edition.jpg
 0597. Harvest Moon Light of Hope Special Edition
      covers-ps4/harvest-moon-light-of-hope-special-edition.jpg
 0598. Harvest Moon The winds of Anthos
@@ -1247,7 +1246,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0619. Hob
      covers-ps4/hob.jpg
 0620. Hogwarts Legacy
-     covers/hogwarts-legacy.jpg
+     SUBTITLE INDONESIA | covers/hogwarts-legacy.jpg
 0621. Hokko Life
      covers-ps4/hokko-life.jpg
 0622. Hollow Knight Silksong
@@ -1265,7 +1264,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0628. Horizon Forbidden West
      covers-ps4/horizon-forbidden-west.jpg
 0629. Horizon Zero Dawn Complete Edition
-     covers/horizon-zero-dawn-complete-edition.jpg
+     SUBTITLE INDONESIA | covers/horizon-zero-dawn-complete-edition.jpg
 0630. Horse Club
      covers-ps4/horse-club.jpg
 0631. Hot Wheels Unleashed
@@ -1303,7 +1302,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0647. Ikai
      covers-ps4/ikai.jpg
 0648. Immortals Fenyx Rising
-     covers-ps4/immortals-fenyx-rising.jpg
+     SUBTITLE INDONESIA | covers/immortal-fenyx-rising.jpg
 0649. Immortal Unchained Ultimate Edition
      covers-ps4/immortal-unchained-ultimate-edition.jpg
 0650. Immortal Realms Vampire Wars
@@ -1321,7 +1320,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0656. Infamous First Light
      covers-ps4/infamous-first-light.jpg
 0657. Infamous Second Son
-     covers-ps4/infamous-second-son.jpg
+     SUBTITLE INDONESIA | covers/infamous-second-son.jpg
 0658. Infinite Minigolf
      covers-ps4/infinite-minigolf.jpg
 0659. Infinity Runner
@@ -1343,7 +1342,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0667. Iron Wings
      covers-ps4/iron-wings.jpg
 0668. It Takes Two
-     covers/it-takes-two.jpg
+     SUBTITLE INDONESIA | covers/it-takes-two.jpg
 0669. Itadaki Smash
      covers-ps4/itadaki-smash.jpg
 0670. J-Stars Victory Vs Plus
@@ -1377,7 +1376,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0684. Journey To The Savage Planet
      covers-ps4/journey-to-the-savage-planet.jpg
 0685. Judgment
-     covers/judgment.jpg
+     SUBTITLE INDONESIA | covers/judgment.jpg
 0686. Jujutsu Kaisen Cursed Clash
      covers-ps4/jujutsu-kaisen-cursed-clash.jpg
 0687. Jumanji The Video Game
@@ -1403,7 +1402,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0697. Kamen Rider Climax Fighters Premium R Sound Edition
      covers-ps4/kamen-rider-climax-fighters-premium-r-sound-edition.jpg
 0698. Kamen Rider Memory of Heroez
-     covers/kamen-rider-memory-of-heroez.jpg
+     SUBTITLE INDONESIA | covers/kamen-rider-memory-of-heroez.jpg
 0699. Kandagawa Jet Girls
      covers-ps4/kandagawa-jet-girls.jpg
 0700. Kao The Kangaroo
@@ -1417,7 +1416,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0704. Ken Folletts The Pillars of the Earth
      covers-ps4/ken-folletts-the-pillars-of-the-earth.jpg
 0705. Kena Bridge of Spirits
-     covers-ps4/kena-bridge-of-spirits.jpg
+     SUBTITLE INDONESIA | covers/kena-bridge-of-spirits.jpg
 0706. Khara The Game
      covers-ps4/khara-the-game.jpg
 0707. Killer Frequency
@@ -1427,7 +1426,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0709. Killzone Shadowfall
      covers-ps4/killzone-shadowfall.jpg
 0710. Kingdom Come Deliverance Royal Edition
-     covers/kingdom-come-deliverance-royal-edition.jpg
+     SUBTITLE INDONESIA | covers/kingdom-come-deliverance-royal-edition.jpg
 0711. Kingdom Hearts Melody of Memory
      covers-ps4/kingdom-hearts-melody-of-memory.jpg
 0712. Kingdom Hearts HD 1.5 and 2.5 Remix
@@ -1487,7 +1486,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0739. LEGO Brawls
      covers-ps4/lego-brawls.jpg
 0740. LEGO City Undercover
-     covers/lego-city-undercover.jpg
+     SUBTITLE INDONESIA | covers/lego-city-undercover.jpg
 0741. LEGO DC Super Villains
      covers-ps4/lego-dc-super-villains.jpg
 0742. LEGO Harry Potter Collection
@@ -1519,7 +1518,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0755. Lichdom Battlemage
      covers-ps4/lichdom-battlemage.jpg
 0756. Lies of P
-     covers-ps4/lies-of-p.jpg
+     SUBTITLE INDONESIA | covers/lies-of-p.jpg
 0757. Life in Willowdale Farm Adventures
      covers-ps4/life-in-willowdale-farm-adventures.jpg
 0758. Life is Strange Before the Storm Deluxe Edition
@@ -1527,7 +1526,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0759. Life is Strange Before The Storm Remastered
      covers-ps4/life-is-strange-before-the-storm-remastered.jpg
 0760. Life is Strange Remastered
-     covers-ps4/life-is-strange-remastered.jpg
+     SUBTITLE INDONESIA | covers/life-is-strange-remastered.jpg
 0761. Life is Strange True Colors Deluxe Edition
      covers-ps4/life-is-strange-true-colors-deluxe-edition.jpg
 0762. Life is Strange 2
@@ -1537,11 +1536,11 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0764. Like a Dragon Ishin Deluxe Edition
      covers-ps4/like-a-dragon-ishin-deluxe-edition.jpg
 0765. Like A Dragon Gaiden The Man Who Erased His Name
-     covers/like-a-dragon-gaiden-the-man-who-erased-his-name.jpg
+     SUBTITLE INDONESIA | covers/like-a-dragon-gaiden-the-man-who-erased-his-name.jpg
 0766. Like a Dragon Infinite Wealth Ultimate Edition
-     covers/like-a-dragon-infinite-wealth-ultimate-edition.jpg
+     SUBTITLE INDONESIA | covers/like-a-dragon-infinite-wealth-ultimate-edition.jpg
 0767. Like a Dragon Pirate Yakuza in Hawaii
-     covers/like-a-dragon-pirate-yakuza-in-hawaii.jpg
+     SUBTITLE INDONESIA | covers/like-a-dragon-pirate-yakuza-in-hawaii.jpg
 0768. Lili Child of Geos
      covers-ps4/lili-child-of-geos.jpg
 0769. Limbo
@@ -1605,11 +1604,11 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0798. Madison
      covers-ps4/madison.jpg
 0799. Mafia Definitive Edition
-     covers/mafia-definitive-edition.jpg
+     SUBTITLE INDONESIA | covers/mafia-i-definitive-edition.jpg
 0800. Mafia II Definitive Edition
-     covers/mafia-ii-definitive-edition.jpg
+     SUBTITLE INDONESIA | covers/mafia-ii-definitive-edition.jpg
 0801. Mafia III Definitine Edition
-     covers/mafia-iii-definitine-edition.jpg
+     SUBTITLE INDONESIA | covers/mafia-iii-definitive-edition.jpg
 0802. Mages of Mystralia
      covers-ps4/mages-of-mystralia.jpg
 0803. Magicka 2 Special Edition
@@ -1639,9 +1638,9 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0815. Marvels Midnight Suns Legendary Edition
      covers-ps4/marvels-midnight-suns-legendary-edition.jpg
 0816. Marvels Spider Man
-     covers/marvels-spider-man.jpg
+     SUBTITLE INDONESIA | covers/marvel-s-spiderman.jpg
 0817. Marvels Spider Man Miles Morales
-     covers/marvels-spider-man-miles-morales.jpg
+     SUBTITLE INDONESIA | covers/marvel-s-spider-man-miles-morales.jpg
 0818. Mass Effect Andromeda
      covers-ps4/mass-effect-andromeda.jpg
 0819. Mass Effect Legendary Edition
@@ -1749,7 +1748,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0870. Mordheim City of the Damned
      covers-ps4/mordheim-city-of-the-damned.jpg
 0871. Mortal Kombat 11 Ultimate Edition
-     covers/mortal-kombat-11-ultimate-edition.jpg
+     SUBTITLE INDONESIA | covers/mortal-kombat-11-ultimate-editon.jpg
 0872. Mortal Kombat XL
      covers-ps4/mortal-kombat-xl.jpg
 0873. Mortal Shell
@@ -1767,9 +1766,9 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0879. MotoGP 23
      covers-ps4/motogp-23.jpg
 0880. MotoGP 24
-     covers-ps4/motogp-24.jpg
+     SUBTITLE INDONESIA | covers/motogp24.jpg
 0881. MotoGP 25
-     covers-ps4/motogp-25.jpg
+     SUBTITLE INDONESIA | covers/motogp25.jpg
 0882. Moto Racer 4
      covers-ps4/moto-racer-4.jpg
 0883. Motorcycle Club
@@ -1821,7 +1820,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0906. Naruto to Boruto Shinobi Striker
      covers-ps4/naruto-to-boruto-shinobi-striker.jpg
 0907. Naruto x Boruto Ultimate Ninja Storm Connections
-     covers/naruto-x-boruto-ultimate-ninja-storm-connections.jpg
+     SUBTITLE INDONESIA | covers/naruto-x-boruto-ultimate-ninja-storm-connection.jpg
 0908. Nascar Heat Evolution
      covers-ps4/nascar-heat-evolution.jpg
 0909. Natsuki Chronicles
@@ -1913,7 +1912,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0952. Nidhogg 2
      covers-ps4/nidhogg-2.jpg
 0953. Nier Automata
-     covers/nier-automata.jpg
+     SUBTITLE INDONESIA | covers/nier-automata.jpg
 0954. Nier Replicant
      covers-ps4/nier-replicant.jpg
 0955. Night Slashers Remake
@@ -1961,7 +1960,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0976. Octodad Dadliest Catch
      covers-ps4/octodad-dadliest-catch.jpg
 0977. Octopath Traveler 2
-     covers-ps4/octopath-traveler-2.jpg
+     SUBTITLE INDONESIA | covers/octopath-traveler-ii.jpg
 0978. Oddworld New n Tasty
      covers-ps4/oddworld-new-n-tasty.jpg
 0979. Oddworld Soulstorm Enhanced Edition
@@ -1983,7 +1982,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0987. One Piece Burning Blood Gold Edition
      covers-ps4/one-piece-burning-blood-gold-edition.jpg
 0988. One Piece Odyssey
-     covers/one-piece-odyssey.jpg
+     SUBTITLE INDONESIA | covers/one-piece-odyssey.jpg
 0989. One Piece Pirate Warriors 3
      covers-ps4/one-piece-pirate-warriors-3.jpg
 0990. One Piece Pirate Warriors 4 Ultimate Edition
@@ -1999,9 +1998,9 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 0995. OneeChanbara Origin
      covers-ps4/oneechanbara-origin.jpg
 0996. Onimusha Warlords
-     covers/onimusha-warlords.jpg
+     SUBTITLE INDONESIA | covers/onimusha-warlords.jpg
 0997. Onimusha 2 Samurais Destiny
-     covers/onimusha-2-samurais-destiny.jpg
+     SUBTITLE INDONESIA | covers/onimusha-2-samurais-destiny.jpg
 0998. Oninaki
      covers-ps4/oninaki.jpg
 0999. Onrush
@@ -2049,9 +2048,9 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 1020. Payday 2 Crimewave Edition
      covers-ps4/payday-2-crimewave-edition.jpg
 1021. Persona 3 Portable
-     covers/persona-3-portable.jpg
+     SUBTITLE INDONESIA | covers/persona-3-portable.jpg
 1022. Persona 3 Reload Digital Premium Edition
-     covers/persona-3-reload-digital-premium-edition.jpg
+     SUBTITLE INDONESIA | covers/persona-3-reload-digital-premium-edition.jpg
 1023. Persona 4 Arena Ultimax
      covers-ps4/persona-4-arena-ultimax.jpg
 1024. Persona 4 Golden
@@ -2059,7 +2058,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 1025. Persona 5
      covers-ps4/persona-5.jpg
 1026. Persona 5 Royal
-     covers/persona-5-royal.jpg
+     SUBTITLE INDONESIA | covers/persona-5-royal.jpg
 1027. Persona 5 Strikers
      covers-ps4/persona-5-strikers.jpg
 1028. Persona 5 Tactica Digital Deluxe Edition
@@ -2207,7 +2206,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 1099. Red Dead Redemption
      covers-ps4/red-dead-redemption.jpg
 1100. Red Dead Redemption 2
-     covers-ps4/red-dead-redemption-2.jpg
+     SUBTITLE INDONESIA | covers/red-dead-redemption-2.jpg
 1101. Redeemer Enhanced Edition
      covers-ps4/redeemer-enhanced-edition.jpg
 1102. Redout Lightspeed Edition
@@ -2225,19 +2224,19 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 1108. Republique
      covers-ps4/republique.jpg
 1109. Resident Evil 2 Remake Deluxe Edition
-     covers/resident-evil-2-remake-deluxe-edition.jpg
+     SUBTITLE INDONESIA | covers/resident-evil-2-remake-deluxe-edition.jpg
 1110. Resident Evil 3 Remake
-     covers/resident-evil-3-remake.jpg
+     SUBTITLE INDONESIA | covers/resident-evil-3-remake.jpg
 1111. Resident Evil 4 Remake Deluxe Edition
-     covers/resident-evil-4-remake-deluxe-edition.jpg
+     SUBTITLE INDONESIA | covers/resident-evil-4-remake-deluxe-edition.jpg
 1112. Resident Evil 4
-     covers/resident-evil-4.jpg
+     SUBTITLE INDONESIA | covers/resident-evil-4.jpg
 1113. Resident Evil 5
-     covers/resident-evil-5.jpg
+     SUBTITLE INDONESIA | covers/resident-evil-5.jpg
 1114. Resident Evil 6
-     covers/resident-evil-6.jpg
+     SUBTITLE INDONESIA | covers/resident-evil-6.jpg
 1115. Resident Evil 7 Biohazard Gold Edition
-     covers/resident-evil-7-biohazard-gold-edition.jpg
+     SUBTITLE INDONESIA | covers/resident-evil-7-biohazard-gold-edition.jpg
 1116. Resident Evil Code Veronica X
      covers-ps4/resident-evil-code-veronica-x.jpg
 1117. Resident Evil HD Remaster
@@ -2249,7 +2248,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 1120. Resident Evil Revelations 2
      covers-ps4/resident-evil-revelations-2.jpg
 1121. Resident Evil Village Gold Edition
-     covers/resident-evil-village-gold-edition.jpg
+     SUBTITLE INDONESIA | covers/resident-evil-village-gold-edition.jpg
 1122. Resonance of Fate 4K HD Edition
      covers-ps4/resonance-of-fate-4k-hd-edition.jpg
 1123. Ride
@@ -2281,7 +2280,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 1136. Road Redemption
      covers-ps4/road-redemption.jpg
 1137. Rock Band 4 Lagu Indonesia
-     covers-ps4/rock-band-4-lagu-indonesia.jpg
+     SUBTITLE INDONESIA | covers/rock-band-4-lagu-indonesia.jpg
 1138. Rock of Ages 3 Make and Break
      covers-ps4/rock-of-ages-3-make-and-break.jpg
 1139. Rocket League Ultimate Edition
@@ -2407,7 +2406,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 1199. Sid Meiers Civilization VII Founders Edition
      covers-ps4/sid-meiers-civilization-vii-founders-edition.jpg
 1200. Sifu
-     covers/sifu.jpg
+     SUBTITLE INDONESIA | covers/sifu.jpg
 1201. Sine Mora EX
      covers-ps4/sine-mora-ex.jpg
 1202. Sinner Sacrifice for Redemption
@@ -2439,7 +2438,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 1215. Skylanders Trap Team
      covers-ps4/skylanders-trap-team.jpg
 1216. Sleeping Dogs Definitive Edition
-     covers/sleeping-dogs-definitive-edition.jpg
+     SUBTITLE INDONESIA | covers/sleeping-dogs-definitive-edition.jpg
 1217. Slender The Arrival
      covers-ps4/slender-the-arrival.jpg
 1218. Slice Dice & Rice
@@ -2513,9 +2512,9 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 1252. Spitlings
      covers-ps4/spitlings.jpg
 1253. SpongeBob SquarePants Battle For Bikini Bottom Rehydrated
-     covers/spongebob-squarepants-battle-for-bikini-bottom-rehydrated.jpg
+     SUBTITLE INDONESIA | covers/spongebob-squarepants-battle-for-bikini-bottom-rehydrated.jpg
 1254. SpongeBob SquarePants The Cosmic Shake
-     covers-ps4/spongebob-squarepants-the-cosmic-shake.jpg
+     SUBTITLE INDONESIA | covers/spongebob-squarepants-the-cosmic-shake.jpg
 1255. SpongeBob SquarePants The Patrick Star Game
      covers-ps4/spongebob-squarepants-the-patrick-star-game.jpg
 1256. Spooky Chase
@@ -2539,9 +2538,9 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 1265. Star Wars Bounty Hunter
      covers-ps4/star-wars-bounty-hunter.jpg
 1266. Star Wars Jedi Fallen Order Deluxe Edition
-     covers/star-wars-jedi-fallen-order-deluxe-edition.jpg
+     SUBTITLE INDONESIA | covers/star-wars-jedi-fallen-order-deluxe-edition.jpg
 1267. Star Wars Jedi Survivor
-     covers/star-wars-jedi-survivor.jpg
+     SUBTITLE INDONESIA | covers/star-wars-jedi-survivor.jpg
 1268. Star Wars Squadrons
      covers-ps4/star-wars-squadrons.jpg
 1269. Stardew Valley
@@ -2563,7 +2562,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 1277. Stick Fight
      covers-ps4/stick-fight.jpg
 1278. Story of Seasons Friends of Mineral Town
-     covers-ps4/story-of-seasons-friends-of-mineral-town.jpg
+     SUBTITLE INDONESIA | covers/story-of-seasons-friends-of-mineral-town.jpg
 1279. Story of Seasons Pioneers of Olive Town
      covers-ps4/story-of-seasons-pioneers-of-olive-town.jpg
 1280. Strange Brigade
@@ -2573,7 +2572,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 1282. Stranger of Paradise Deluxe Edition
      covers-ps4/stranger-of-paradise-deluxe-edition.jpg
 1283. Stray
-     covers/stray.jpg
+     SUBTITLE INDONESIA | covers/stray.jpg
 1284. Stray Souls
      covers-ps4/stray-souls.jpg
 1285. Strayed Lights
@@ -2751,7 +2750,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 1371. The Caligula Effect Overdose
      covers-ps4/the-caligula-effect-overdose.jpg
 1372. The Callisto Protocol
-     covers/the-callisto-protocol.jpg
+     SUBTITLE INDONESIA | covers/the-callisto-protocol.jpg
 1373. The Complex
      covers-ps4/the-complex.jpg
 1374. The Council
@@ -2761,7 +2760,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 1376. The Dark Pictures Anthology Little Hope
      covers-ps4/the-dark-pictures-anthology-little-hope.jpg
 1377. The Dark Pictures Anthology Man of Medan
-     covers/the-dark-pictures-anthology-man-of-medan.jpg
+     SUBTITLE INDONESIA | covers/the-dark-pictures-anthology-man-of-medan.jpg
 1378. The Dark Pictures Anthology The Devil In Me
      covers-ps4/the-dark-pictures-anthology-the-devil-in-me.jpg
 1379. The DioField Chronicle
@@ -2783,7 +2782,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 1387. The Evil Within
      covers-ps4/the-evil-within.jpg
 1388. The Evil Within 2
-     covers/the-evil-within-2.jpg
+     SUBTITLE INDONESIA | covers/the-evil-within-2.jpg
 1389. The Expanse A Telltale Series
      covers-ps4/the-expanse-a-telltale-series.jpg
 1390. The Forest
@@ -2821,9 +2820,9 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 1406. The Last Kids On Earth And The Staff Of Doom
      covers-ps4/the-last-kids-on-earth-and-the-staff-of-doom.jpg
 1407. The Last of Us Part II
-     covers/the-last-of-us-part-ii.jpg
+     SUBTITLE INDONESIA | covers/the-last-of-us-part-ii.jpg
 1408. The Last of US Remastered
-     covers/the-last-of-us-remastered.jpg
+     SUBTITLE INDONESIA | covers/the-last-of-us-remastered.jpg
 1409. The Last Remnant Remastered
      covers-ps4/the-last-remnant-remastered.jpg
 1410. The Last Stand Aftermath
@@ -2921,7 +2920,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 1456. The Witch and the Hundred Knight Revival Edition
      covers-ps4/the-witch-and-the-hundred-knight-revival-edition.jpg
 1457. The Witcher 3 Game of the Year Edition
-     covers/the-witcher-3-game-of-the-year-edition.jpg
+     SUBTITLE INDONESIA | covers/the-witcher-3-game-of-the-year-edition.jpg
 1458. The Wolf Among Us
      covers-ps4/the-wolf-among-us.jpg
 1459. The Wonderful 101 Remastered
@@ -2973,13 +2972,13 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 1482. Tooth and Tail
      covers-ps4/tooth-and-tail.jpg
 1483. Tom Clancys Ghost Recon Wildlands
-     covers/tom-clancys-ghost-recon-wildlands.jpg
+     SUBTITLE INDONESIA | covers/tom-clancys-ghost-recon-wildlands.jpg
 1484. Tom Clancy’s Rainbow Six Siege
      covers-ps4/tom-clancy-s-rainbow-six-siege.jpg
 1485. Tomb Raider Definitve Edition
      covers-ps4/tomb-raider-definitve-edition.jpg
 1486. Tomb Raider I-III Remastered
-     covers/tomb-raider-i-iii-remastered.jpg
+     SUBTITLE INDONESIA | covers/tomb-raider-i-iii-remastered.jpg
 1487. Tomb Raider IV-VI Remastered
      covers-ps4/tomb-raider-iv-vi-remastered.jpg
 1488. Tomb Raider Legend
@@ -3083,15 +3082,15 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 1537. Ultimate Marvel vs Capcom 3
      covers-ps4/ultimate-marvel-vs-capcom-3.jpg
 1538. Ultra Age
-     covers/ultra-age.jpg
+     SUBTITLE INDONESIA | covers/ultra-age.jpg
 1539. Ultra Street Fighter IV
      covers-ps4/ultra-street-fighter-iv.jpg
 1540. Uncharted 4 A Thiefs End
-     covers/uncharted-4-a-thiefs-end.jpg
+     SUBTITLE INDONESIA | covers/uncharted-4-a-thiefs-end.jpg
 1541. Uncharted The Lost Legacy
-     covers/uncharted-the-lost-legacy.jpg
+     SUBTITLE INDONESIA | covers/uncharted-lost-legacy.jpg
 1542. Uncharted The Nathan Drake Collection
-     covers/uncharted-the-nathan-drake-collection.jpg
+     SUBTITLE INDONESIA | covers/uncharted-the-nathan-drake-collection.jpg
 1543. Under Night In Birth II Sys Celes
      covers-ps4/under-night-in-birth-ii-sys-celes.jpg
 1544. Under Night In Birth Exe Late Cl-r
@@ -3147,7 +3146,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 1569. Virtua Fighter 5 Ultimate Showdown
      covers-ps4/virtua-fighter-5-ultimate-showdown.jpg
 1570. Visage
-     covers/visage.jpg
+     SUBTITLE INDONESIA | covers/visage.jpg
 1571. Visions of Mana Digital Deluxe Edition
      covers-ps4/visions-of-mana-digital-deluxe-edition.jpg
 1572. War Tech Fighters
@@ -3175,9 +3174,9 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 1583. Wasteland 3
      covers-ps4/wasteland-3.jpg
 1584. Watch Dogs Complete Edition
-     covers/watch-dogs-complete-edition.jpg
+     SUBTITLE INDONESIA | covers/watch-dogs-complete-edition.jpg
 1585. Watch Dogs 2 Gold Edition
-     covers/watch-dogs-2-gold-edition.jpg
+     SUBTITLE INDONESIA | covers/watch-dogs-2-gold-edition.jpg
 1586. Watch Dogs Legion
      covers-ps4/watch-dogs-legion.jpg
 1587. We Happy Few
@@ -3203,7 +3202,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 1597. Wizard of Legend
      covers-ps4/wizard-of-legend.jpg
 1598. Wo Long Fallen Dynasty Complete Edition
-     covers/wo-long-fallen-dynasty-complete-edition.jpg
+     SUBTITLE INDONESIA | covers/wo-long-fallen-dynasty.jpg
 1599. Wolfenstein The Old Blood
      covers-ps4/wolfenstein-the-old-blood.jpg
 1600. Wolfenstein II The New Colossus
@@ -3275,7 +3274,7 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
 1633. Yakuza Kiwami 2
      covers-ps4/yakuza-kiwami-2.jpg
 1634. Yakuza Like A Dragon
-     covers/yakuza-like-a-dragon.jpg
+     SUBTITLE INDONESIA | covers/yakuza-like-a-dragon.jpg
 1635. Yet Another Zombie Defense HD
      covers-ps4/yet-another-zombie-defense-hd.jpg
 1636. Yonder The Cloud Catcher Chronicles
@@ -3306,3 +3305,53 @@ Nama file harus sama persis dengan daftar di bawah. Contoh: covers-ps4/20xx.jpg
      covers-ps4/zombieland-double-tap-road-trip.jpg
 1649. Zorro The Chronicles
      covers-ps4/zorro-the-chronicles.jpg
+1650. Death's Door
+     SUBTITLE INDONESIA | covers/death-s-door.jpg
+1651. Dragonball Z Kakarot Ultimate Edition
+     SUBTITLE INDONESIA | covers/dragonball-z-kakarot-ultimate-edition.jpg
+1652. Elden Ring Shadow of the Erdtree
+     SUBTITLE INDONESIA | covers/elden-ring-shadow-of-the-erdtree.jpg
+1653. Ender Lilies Quietus of The Knights
+     SUBTITLE INDONESIA | covers/ender-lilies-quietus-of-the-knights.jpg
+1654. God Of War Ragnarok
+     SUBTITLE INDONESIA | covers/god-of-war-ragnarok.jpg
+1655. Harvest Moon Save the Homeland
+     SUBTITLE INDONESIA | covers/harvest-moon-save-the-homeland.jpg
+1656. Like A Dragon Pirate Yakuza in Hawaii Digital Deluxe Edition
+     SUBTITLE INDONESIA | covers/like-a-dragon-pirate-yakuza-in-hawaii-digital-deluxe-edition.jpg
+1657. Little Nightmares 3 Deluxe Edition
+     SUBTITLE INDONESIA | covers/little-nightmares-3-deluxe-edition.jpg
+1658. NieR Automata Game of The YoRHa Edition
+     SUBTITLE INDONESIA | covers/nier-automata-game-of-the-yorha-edition.jpg
+1659. Octopath Traveler 0
+     SUBTITLE INDONESIA | covers/octopath-traveler-0.jpg
+1660. Octopath Traveler
+     SUBTITLE INDONESIA | covers/octopath-traveler.jpg
+1661. Onimusha 2 Samurai Destiny
+     SUBTITLE INDONESIA | covers/onimusha-2-samurai-destiny.jpg
+1662. P.T. (Silent Hills)
+     SUBTITLE INDONESIA | covers/p-t-silent-hills.jpg
+1663. Resident Evil 2 Remake
+     SUBTITLE INDONESIA | covers/resident-evil-2-remake.jpg
+1664. Resident Evil 4 Remake
+     SUBTITLE INDONESIA | covers/resident-evil-4-remake.jpg
+1665. Resident Evil 7 Biohazard
+     SUBTITLE INDONESIA | covers/resident-evil-7-biohazard.jpg
+1666. Resident Evil 8 Village
+     SUBTITLE INDONESIA | covers/resident-evil-8-village.jpg
+1667. Sekiro Shadows Die Twice G.O.T.Y
+     SUBTITLE INDONESIA | covers/sekiro-shadows-die-twice-g-o-t-y.jpg
+1668. Sengoku Basara 4 Sumeragi
+     SUBTITLE INDONESIA | covers/sengoku-basara-4-sumeragi.jpg
+1669. The Dark Pictures Man of Medan
+     SUBTITLE INDONESIA | covers/the-dark-pictures-man-of-medan.jpg
+1670. The Witcher 3 Wild Hunt G.O.T.Y
+     SUBTITLE INDONESIA | covers/the-witcher-3-wild-hunt-g-o-t-y.jpg
+1671. Tom Clancys Ghost Recon Wildlands Ultimate Edition
+     SUBTITLE INDONESIA | covers/tom-clancys-ghost-recon-wildlands-ultimate-edition.jpg
+1672. Tomb Raider I II III Remastered Starring Lara Croft
+     SUBTITLE INDONESIA | covers/tomb-raider-i-ii-iii-remastered-starring-lara-croft.jpg
+1673. UPIN IPIN UNIVERSE
+     SUBTITLE INDONESIA | covers/upin-ipin-universe.jpg
+1674. Yakuza Kiwami 3 and Dark Ties Deluxe Edition
+     SUBTITLE INDONESIA | covers/yakuza-kiwami-3-and-dark-ties-deluxe-edition.jpg
