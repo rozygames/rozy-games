@@ -40,3 +40,6 @@
 .ps3-cart-icon{font-size:17px;line-height:1}
 .ps3-cart-price{font-size:14px}
 @media(max-width:480px){.ps3-cart{padding:9px 8px;font-size:12px}.ps3-cart-price{font-size:13px}}
+
+/* Ikon aksi WhatsApp dan petunjuk arah di beranda */
+.action-icon{width:18px;height:18px;flex:0 0 18px;display:inline-block;vertical-align:middle;fill:currentColor;margin-right:7px}
