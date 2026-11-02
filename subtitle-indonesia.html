@@ -526,13 +526,7 @@ document.querySelectorAll('.game-card').forEach(card => {
   const button = card.querySelector('.game-wa');
   const title = card.querySelector('.game-title')?.textContent.trim();
   if (!button || !title) return;
-  const message = `Halo Uda Rozy Games 👋
-
-Saya mau tanya nih, berapa harga untuk pengisian game PS4 HEN Subtitle Indonesia?
-
-🎮 Nama Game: ${title}
-
-Mohon informasinya ya, Uda. Terima kasih 🙏`;
+  const message = `Halo Rozy Games, Saya Ingin Mengisi Game Ini Di PS4 HEN saya\n\n🎮 Nama Game: ${title}\n💰 Harga: Rp25.000`;
   button.href = 'https://wa.me/6281270635111?text=' + encodeURIComponent(message);
 });
 </script></body></html>
