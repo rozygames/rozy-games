@@ -32,3 +32,11 @@
 .game-wa{display:flex;align-items:center;justify-content:center;margin-top:10px;padding:10px 11px;border-radius:9px;background:#fbedee;color:var(--red);font-size:11px;font-weight:800;text-align:center}
 .game-wa:hover{background:var(--red);color:#fff}
 @media(max-width:480px){.game-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.game-info{padding:11px}.game-title{font-size:14px}.subtitle-badge{font-size:8px;left:6px;right:6px;padding:6px 4px}.game-wa{font-size:10px}}
+
+
+/* Tombol keranjang dan harga katalog PS3 */
+.ps3-cart{display:flex;align-items:center;justify-content:center;gap:9px;margin-top:11px;padding:10px 12px;border-radius:10px;background:#eaf8ef;color:#147a3d;font-size:13px;font-weight:800;transition:background .2s,transform .2s}
+.ps3-cart:hover{background:#d7f1e0;transform:translateY(-1px)}
+.ps3-cart-icon{font-size:17px;line-height:1}
+.ps3-cart-price{font-size:14px}
+@media(max-width:480px){.ps3-cart{padding:9px 8px;font-size:12px}.ps3-cart-price{font-size:13px}}
