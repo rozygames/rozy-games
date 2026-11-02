@@ -43,3 +43,7 @@
 
 /* Ikon aksi WhatsApp dan petunjuk arah di beranda */
 .action-icon{width:18px;height:18px;flex:0 0 18px;display:inline-block;vertical-align:middle;fill:currentColor;margin-right:7px}
+
+/* Pastikan ikon tombol tetap kecil dan sejajar di semua ukuran layar */
+.btn .action-icon,.nav-contact .action-icon{width:18px!important;height:18px!important;min-width:18px!important;max-width:18px!important;min-height:18px!important;max-height:18px!important;flex:0 0 18px!important;display:inline-block!important;vertical-align:middle!important}
+.hero-actions .btn{gap:10px}
