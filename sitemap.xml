@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-        <loc>https://rozy-games-solok.netlify.app/</loc>
 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://rozy-games-solok.netlify.app/</loc>
   </url>
+
   <url>
     <loc>https://rozy-games-solok.netlify.app/ps3.html</loc>
   </url>
+
   <url>
     <loc>https://rozy-games-solok.netlify.app/ps4-hen.html</loc>
   </url>
+
+  <url>
+    <loc>https://rozy-games-solok.netlify.app/ps5-hen.html</loc>
+  </url>
+
   <url>
     <loc>https://rozy-games-solok.netlify.app/subtitle-indonesia.html</loc>
   </url>
+
 </urlset>
