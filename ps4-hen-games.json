@@ -687,13 +687,14 @@
     "raw": "Assassin's Creed Freedom Cry [6.66 GB]"
   },
   {
-    "title": "Assassin's Creed III Remastered",
-    "source_title": "Assassin's Creed III Remastered",
+    "title": "Assassin's Creed III Remastered Subtitle Indonesia",
+    "source_title": "Assassin's Creed III Remastered Subtitle Indonesia",
     "size": "55.4GB",
-    "subtitle": false,
+    "subtitle": true,
     "isNew": false,
     "source_line": 77,
-    "raw": "Assassin's Creed III Remastered — [55.4GB]"
+    "raw": "Assassin's Creed III Remastered Subtitle Indonesia [55.4GB]",
+    "subtitleTitle": "Assassin's Creed III Remastered Subtitle Indonesia"
   },
   {
     "title": "Assassin's Creed IV Black Flag Gold Edition Subtitle Indonesia",
